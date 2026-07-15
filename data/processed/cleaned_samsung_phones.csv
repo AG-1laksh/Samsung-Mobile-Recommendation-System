@@ -1,0 +1,31 @@
+model_name,series,launch_year,price_inr,ram_gb,storage_gb,processor_score,camera_mp,battery_mah,charging_w,refresh_rate_hz,screen_size_inch,weight_g,ai_features,waterproof,target_segment
+Galaxy A06,A,2025,10999,4,64,3.5,50,5000,25,60,6.7,189,No,No,budget
+Galaxy A15 5G,A,2024,17999,6,128,5.0,50,5000,25,90,6.5,200,No,No,budget
+Galaxy A16 5G,A,2025,19999,8,128,5.5,50,5000,25,90,6.7,198,Basic AI,No,budget
+Galaxy A25 5G,A,2024,24999,8,128,6.2,50,5000,25,120,6.5,197,Basic AI,No,budget
+Galaxy A26 5G,A,2025,27999,8,256,6.5,50,5000,25,120,6.7,197,Basic AI,Yes,business
+Galaxy A35 5G,A,2024,32999,8,256,7.0,50,5000,25,120,6.6,209,Galaxy AI,Yes,photography
+Galaxy A36 5G,A,2025,35999,8,256,7.3,50,5000,45,120,6.7,205,Galaxy AI,Yes,business
+Galaxy A55 5G,A,2024,42999,12,256,8.2,50,5000,25,120,6.6,213,Galaxy AI,Yes,business
+Galaxy M15 5G,M,2024,15999,6,128,5.2,50,6000,25,90,6.5,217,No,No,budget
+Galaxy M35 5G,M,2024,26999,8,256,7.6,50,6000,25,120,6.6,222,Basic AI,No,gaming
+Galaxy M56 5G,M,2025,31999,8,256,8.0,50,5000,45,120,6.7,180,Galaxy AI,Yes,gaming
+Galaxy F15 5G,F,2024,16999,6,128,5.3,50,6000,25,90,6.5,217,No,No,budget
+Galaxy F35 5G,F,2025,24999,8,256,7.2,50,6000,25,120,6.7,220,Basic AI,No,gaming
+Galaxy F55 5G,F,2024,28999,8,256,7.5,50,5000,45,120,6.7,180,Galaxy AI,Yes,photography
+Galaxy S23 FE,S,2024,46999,8,128,8.9,50,4500,25,120,6.4,209,Galaxy AI,Yes,gaming
+Galaxy S24 FE,S,2025,59999,8,256,9.2,50,4700,25,120,6.7,213,Galaxy AI,Yes,photography
+Galaxy S24,S,2024,74999,8,256,9.5,50,4000,25,120,6.2,168,Galaxy AI,Yes,business
+Galaxy S24+,S,2024,94999,12,256,9.7,50,4900,45,120,6.7,197,Galaxy AI,Yes,business
+Galaxy S24 Ultra,S,2024,129999,12,512,10.0,200,5000,45,120,6.8,232,Galaxy AI,Yes,photography
+Galaxy Z Flip6,Z,2025,109999,12,256,9.8,50,4000,25,120,6.7,187,Galaxy AI,Yes,photography
+Galaxy Z Fold6,Z,2025,169999,16,512,10.0,50,4400,25,120,7.6,239,Galaxy AI,Yes,business
+Galaxy S25,S,2025,84999,12,256,9.8,50,4000,45,120,6.2,165,Galaxy AI,Yes,business
+Galaxy S25+,S,2025,104999,12,512,9.9,50,4900,45,120,6.7,190,Galaxy AI,Yes,gaming
+Galaxy S25 Edge,S,2025,114999,12,512,9.9,200,3900,45,120,6.7,163,Galaxy AI,Yes,photography
+Galaxy S25 Ultra,S,2025,134999,16,512,10.0,200,5000,45,120,6.9,218,Galaxy AI,Yes,photography
+Galaxy XCover7,XCover,2024,37999,6,128,6.5,50,4050,15,60,6.6,240,Basic AI,Yes,business
+Galaxy XCover8 Pro,XCover,2025,49999,8,256,7.8,50,4350,25,120,6.6,235,Galaxy AI,Yes,business
+Galaxy A56 5G,A,2025,44999,12,256,8.4,50,5000,45,120,6.7,198,Galaxy AI,Yes,photography
+Galaxy M36 5G,M,2025,29999,8,256,7.8,50,6500,45,120,6.7,225,Galaxy AI,No,gaming
+Galaxy F56 5G,F,2025,33999,12,256,8.1,50,5000,45,120,6.7,184,Galaxy AI,Yes,photography
